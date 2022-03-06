@@ -9,3 +9,6 @@ I can use the staging area to make sure I have one logical commit by commiting o
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When testing an experimental faeture and making code breaking changes
+
+How do the diagrams help you visualize the branch structure?
+They enbable us to tell the reachability of a branch that would be useful in merging
