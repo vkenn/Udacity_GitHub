@@ -1,0 +1,6 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+What did I :
+Do ; I used diff -u to find the difference between two files .Pretty sleek 
+Notice : Some funny page numbers and + and - signs 
+Feel : Its an amazing experience 
+I will try this on my notes , in the future I have a tool to compare notes 
