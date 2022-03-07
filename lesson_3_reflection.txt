@@ -4,3 +4,11 @@ When you are far from your computer .Working in someone else's PC.Collaborating 
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 When collaborating on a project
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks - copy of repo within GitHub 
+      - When collaborating on open source projects 
+Clones - copy from Github to local or within local
+       - to add my repo locally 
+Branch - a copy of a branch (alternate universe )
+       -making changes ,, adding features fixing bugs on my own repo
