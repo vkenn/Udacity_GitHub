@@ -18,3 +18,6 @@ It makes it easier to track changes both locally and on remote
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Merging code would be harder 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When making code changes that could break something , collaborating and each of you have made significantly different changes 
