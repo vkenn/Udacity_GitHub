@@ -15,3 +15,6 @@ Branch - a copy of a branch (alternate universe )
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It makes it easier to track changes both locally and on remote
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Merging code would be harder 
