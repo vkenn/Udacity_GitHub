@@ -4,3 +4,24 @@ Do ; I used diff -u to find the difference between two files .Pretty sleek
 Notice : Some funny page numbers and + and - signs 
 Feel : Its an amazing experience 
 I will try this on my notes , in the future I have a tool to compare notes 
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+It helps me spot bugs and restore file versions to a period with no errors
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+One may forget to commit .The other is making too small commits or larger ones .
+AUtonomy is one pro , you decide what a logical change is
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Git was created with a software engineer in mind
+
+How can you use the commands git log and git diff to view the history of files?
+git log --stat to see how big of changes were made 
+git diff commit_1 commit_2 to find the difference between two commits
+
+How might using version control make you more confident to make changes that could break something?
+I know I can always revert to previous 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Take down my own notes and reflections
