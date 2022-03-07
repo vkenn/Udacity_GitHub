@@ -12,3 +12,12 @@ When testing an experimental faeture and making code breaking changes
 
 How do the diagrams help you visualize the branch structure?
 They enbable us to tell the reachability of a branch that would be useful in merging
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It combines two files with the original and removes any deletions and adds any additions
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+being able to resolve merge conflicts 
+
+git con
+git config --global core.autocrlf false
