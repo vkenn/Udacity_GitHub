@@ -12,3 +12,6 @@ Clones - copy from Github to local or within local
        - to add my repo locally 
 Branch - a copy of a branch (alternate universe )
        -making changes ,, adding features fixing bugs on my own repo
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It makes it easier to track changes both locally and on remote
